@@ -30,7 +30,7 @@ public class NumberCard2 {
 			sb.append(map.getOrDefault(key, 0)).append(' ');
 		}	
 		
-		System.out.println(map);
+//		System.out.println(map);
 		
 		System.out.println(sb);
 //		System.out.println(map1);
